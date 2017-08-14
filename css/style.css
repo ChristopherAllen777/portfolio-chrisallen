@@ -327,8 +327,8 @@ section.section {
  */
 .section-separator {
   display: block;
-  padding-top: 115px;
-  padding-bottom: 115px;
+    padding-top: 0px;
+    padding-bottom: 40px;
 }
 .section-separator.sp-top {
   padding-bottom: 0px;
