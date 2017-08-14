@@ -1895,8 +1895,8 @@ section.section {
   z-index: 111;
 }
 .line {
-  width: 1px;
-  height: 115px;
+  width: 2px;
+  height: 50px;
   background-color: #f44336;
   position: relative;
 }
